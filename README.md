@@ -51,12 +51,11 @@ webdev-journey/
 
 ## 🧠 What I’m Learning
 
-* HTML, CSS, JavaScript
-* DOM Manipulation
-* API Integration
-* React Basics
-* Problem Solving
-* Clean Code Practices
+Instead of treating learning as a checklist, I follow a structured roadmap and build by doing.
+
+📌 My learning is guided by the ChaiCode Notion curriculum (see roadmap above), where I continuously move from fundamentals → systems → real-world product building.
+
+🎯 Focus: Not just learning concepts, but applying them to build and ship real, production-ready products.
 
 ---
 
