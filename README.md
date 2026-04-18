@@ -20,7 +20,7 @@ It includes:
 
 ## 🎓 Learning Platform
 
-![ChaiCode Logo](./assets/chaicode-logo.png)
+![ChaiCode Logo](https://lh3.googleusercontent.com/yVsp-7uwld_htvChpJylmA-8Fit4hxulEg4bQBcWE5uccoflv6F1i8ZXaPRBwQvHUYMfKNEntGyA4wJicwURpLnF_v7UtUQhHEcV=h200)
 
 I am learning web development through the **ChaiCode platform**, focusing on:
 
