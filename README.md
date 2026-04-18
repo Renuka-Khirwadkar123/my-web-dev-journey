@@ -85,7 +85,7 @@ I write blogs to:
 ## 📈 Current Focus
 
 ```text
-Becoming consistent in building real-world projects + improving JavaScript fundamentals
+My current goal is to become a full-stack developer by consistently building real-world projects, strengthening problem-solving skills, and mastering both frontend and backend technologies.
 ```
 
 ---
